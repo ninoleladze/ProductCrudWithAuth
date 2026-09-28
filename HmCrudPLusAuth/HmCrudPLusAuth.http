@@ -1,0 +1,6 @@
+@HmCrudPLusAuth_HostAddress = http://localhost:5016
+
+GET {{HmCrudPLusAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
